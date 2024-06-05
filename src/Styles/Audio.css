@@ -1,0 +1,17 @@
+.button {
+    display: inline-block;
+  }
+  
+  button {
+    background-color: transparent;
+    margin: 0;
+    border: none;
+    font-size: 25px;
+    color: #7f3916;
+    transition: color 0.3s ease;
+  }
+  
+  button:hover {
+    color: #7f3916;
+  }
+  
